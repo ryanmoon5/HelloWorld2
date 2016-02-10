@@ -1,1 +1,5 @@
-# HelloWorld2
+# Hello World!!
+
+
+This is a hello world application. 
+By: Ryan Moon
